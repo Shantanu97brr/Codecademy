@@ -1,3 +1,3 @@
 # Codecademy
 
-# Hello This is Codecademy Git tutorial
+* Hello This is Codecademy Git tutorial
